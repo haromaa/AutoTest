@@ -1,0 +1,8 @@
+Created by arombher on 2.10.2017
+
+This is a concept file with following syntax for each concept.
+# Login to Lifecare Web interface with <username> and <password>
+* Login to web interface with <username> and <password> and validate
+
+# Validate log in status
+* Validate that user has logged in succesfully
